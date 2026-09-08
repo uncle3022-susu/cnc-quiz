@@ -1,0 +1,62 @@
+{
+  "CNC銑床": {
+    "pdf": "cnc.pdf",
+    "pages": 57,
+    "totalFound": 775,
+    "deleted": 2,
+    "usable": 773,
+    "single": 571,
+    "multiple": 202,
+    "imageRequired": 16
+  },
+  "機工類": {
+    "pdf": "machine.pdf",
+    "pages": 31,
+    "totalFound": 479,
+    "deleted": 4,
+    "usable": 475,
+    "single": 415,
+    "multiple": 60,
+    "imageRequired": 37
+  },
+  "職業安全": {
+    "pdf": "safety.pdf",
+    "pages": 8,
+    "totalFound": 100,
+    "deleted": 0,
+    "usable": 100,
+    "single": 100,
+    "multiple": 0,
+    "imageRequired": 0
+  },
+  "工作倫理": {
+    "pdf": "ethics.pdf",
+    "pages": 12,
+    "totalFound": 100,
+    "deleted": 0,
+    "usable": 100,
+    "single": 100,
+    "multiple": 0,
+    "imageRequired": 4
+  },
+  "環境保護": {
+    "pdf": "environment.pdf",
+    "pages": 9,
+    "totalFound": 100,
+    "deleted": 5,
+    "usable": 95,
+    "single": 95,
+    "multiple": 0,
+    "imageRequired": 1
+  },
+  "節能減碳": {
+    "pdf": "energy.pdf",
+    "pages": 9,
+    "totalFound": 100,
+    "deleted": 0,
+    "usable": 100,
+    "single": 100,
+    "multiple": 0,
+    "imageRequired": 3
+  }
+}

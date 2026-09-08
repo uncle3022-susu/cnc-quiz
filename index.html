@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#f6f7fb" />
+  <meta name="description" content="技術士技能檢定學科刷題練習" />
+  <title>技能學科練習</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app" class="app-shell">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">SKILL PRACTICE</div>
+        <h1 id="pageTitle">測驗</h1>
+      </div>
+      <button id="homeQuickBtn" class="icon-btn" aria-label="回到測驗首頁" title="回到測驗首頁">
+        <span>⌂</span>
+      </button>
+    </header>
+
+    <main id="main" class="main-content"></main>
+
+    <nav id="bottomNav" class="bottom-nav" aria-label="主要導覽">
+      <button class="nav-item active" data-page="quiz"><span class="nav-icon">✓</span><span>測驗</span></button>
+      <button class="nav-item" data-page="profile"><span class="nav-icon">●</span><span>個人</span></button>
+    </nav>
+  </div>
+
+  <div id="modalRoot"></div>
+  <div id="toastRoot" aria-live="polite" aria-atomic="true"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>
