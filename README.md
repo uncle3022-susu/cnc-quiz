@@ -1,47 +1,33 @@
 # 技能學科練習網站
 
-這是一個純前端、Mobile First 的技能檢定學科刷題網站，無需 Node / npm / 後端即可部署到 GitHub Pages。
+純前端、可直接部署到 GitHub Pages 的手機優先題庫練習網站。
 
-## 最簡單的 GitHub Pages 部署方式
+## 直接放到 GitHub Pages
 
-1. 在 GitHub 建立一個新的 Repository。
-2. 將這個專案裡的所有檔案與資料夾全部上傳到 Repository 根目錄。
-3. 進入 Repository → Settings → Pages。
-4. 在 Build and deployment 選擇 `Deploy from a branch`。
-5. Branch 選 `main`，資料夾選 `/ (root)`，儲存。
-6. 等待 GitHub Pages 部署完成後，使用 GitHub 顯示的網址開啟即可。
+請把本資料夾內的「全部檔案」放到 GitHub Repository 根目錄，確認 `index.html` 與 `app.js`、`styles.css` 在同一層；不要把 ZIP 檔直接放進 Repository，也不要多包一層 `cnc_quiz_github/` 資料夾。
 
-本專案沒有 React、Vite、npm build 流程，因此不需要 `npm run dev` 或 `npm run build`。
+GitHub → Settings → Pages → Source 選 `Deploy from a branch` → Branch 選 `main`、Folder 選 `/ (root)` → Save。
+
+本網站不需要 npm、Vite 或後端。
+
+## 個人資料與版本遷移
+
+錯題、最近 3 筆測驗紀錄，以及每一科「本輪已測驗題目」會保存在使用者自己的瀏覽器 LocalStorage。
+
+目前資料格式版本為 **v2**。程式會先檢查 v2；如果發現舊版 `skill-quiz-state-v1`，會自動把舊的錯題與測驗紀錄遷移到 v2，並補上新的本輪出題紀錄，不會因版本更新直接清空舊資料。
+
+## 本輪出題規則
+
+- CNC銑床、機工類：70% 單選、30% 複選，單選先出、複選後出。
+- 職業安全、工作倫理、環境保護、節能減碳：100% 單選。
+- 同一次測驗不重複。
+- 正常測驗完成或中斷時，已作答題目會記為本輪已測驗，不再出現於後續一般測驗。
+- 本輪全部測完時，可選擇重新隨機；只會重置該科「本輪已測驗題目」紀錄，不會刪除個人錯題。
+
+## 題目圖片
+
+PDF 圖片題會使用由原始 PDF 頁面裁切的題目圖，網站內可直接點擊圖片放大。原始 PDF 也保留於 `pdfs/`，圖片題若需要核對原頁可直接開啟 PDF。
 
 ## 題庫
 
-題庫位於 `data/questions.json`，統計位於 `data/stats.json`。
-PDF 原始檔案位於 `pdfs/`，網站可在圖示題中開啟對應 PDF 頁面。
-
-## 六科固定順序
-
-1. CNC銑床
-2. 機工類
-3. 職業安全
-4. 工作倫理
-5. 環境保護
-6. 節能減碳
-
-## 出題規則
-
-CNC銑床、機工類：70% 單選、30% 複選，且單選先出、複選後出。
-其餘四科：100% 單選。
-同次測驗不重複出題；複選題需答案集合完全一致才算答對。
-
-## 本次題庫轉換結果
-
-- CNC銑床：773 題（原題目 775 題，刪除 2 題）
-- 機工類：475 題（原題目 479 題，刪除 4 題）
-- 職業安全：100 題
-- 工作倫理：100 題
-- 環境保護：95 題（原題目 100 題，刪除 5 題）
-- 節能減碳：100 題
-
-共 1643 題。
-
-部分 PDF 題目是圖片選項，文字抽取無法完整還原；網站會保留 `imageRequired` 標記，並在測驗中提供「開啟 PDF 原頁」功能。
+題庫位於 `data/questions.json`；題庫統計位於 `data/stats.json`。圖片題圖檔位於 `images/`。

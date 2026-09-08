@@ -723,7 +723,9 @@
     "pdfPage": 3,
     "printedPage": 2,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w01-q033.webp",
+    "imageAlt": "CNC銑床 第 33 題原始題目圖"
   },
   {
     "id": "cnc-w01-034",
@@ -3187,7 +3189,9 @@
     "pdfPage": 9,
     "printedPage": 8,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q097.webp",
+    "imageAlt": "CNC銑床 第 97 題原始題目圖"
   },
   {
     "id": "cnc-w02-098",
@@ -3275,7 +3279,9 @@
     "pdfPage": 10,
     "printedPage": 9,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q101.webp",
+    "imageAlt": "CNC銑床 第 101 題原始題目圖"
   },
   {
     "id": "cnc-w02-102",
@@ -3297,7 +3303,9 @@
     "pdfPage": 10,
     "printedPage": 9,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q102.webp",
+    "imageAlt": "CNC銑床 第 102 題原始題目圖"
   },
   {
     "id": "cnc-w02-103",
@@ -3495,7 +3503,9 @@
     "pdfPage": 10,
     "printedPage": 9,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w02-q111.webp",
+    "imageAlt": "CNC銑床 第 111 題原始題目圖"
   },
   {
     "id": "cnc-w02-112",
@@ -3539,7 +3549,9 @@
     "pdfPage": 11,
     "printedPage": 10,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q113.webp",
+    "imageAlt": "CNC銑床 第 113 題原始題目圖"
   },
   {
     "id": "cnc-w02-114",
@@ -3627,7 +3639,9 @@
     "pdfPage": 11,
     "printedPage": 10,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q117.webp",
+    "imageAlt": "CNC銑床 第 117 題原始題目圖"
   },
   {
     "id": "cnc-w02-118",
@@ -3649,7 +3663,9 @@
     "pdfPage": 11,
     "printedPage": 10,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q118.webp",
+    "imageAlt": "CNC銑床 第 118 題原始題目圖"
   },
   {
     "id": "cnc-w02-119",
@@ -3693,7 +3709,9 @@
     "pdfPage": 12,
     "printedPage": 11,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q120.webp",
+    "imageAlt": "CNC銑床 第 120 題原始題目圖"
   },
   {
     "id": "cnc-w02-121",
@@ -4001,7 +4019,9 @@
     "pdfPage": 13,
     "printedPage": 12,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q134.webp",
+    "imageAlt": "CNC銑床 第 134 題原始題目圖"
   },
   {
     "id": "cnc-w02-135",
@@ -4133,7 +4153,9 @@
     "pdfPage": 13,
     "printedPage": 12,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w02-q141.webp",
+    "imageAlt": "CNC銑床 第 141 題原始題目圖"
   },
   {
     "id": "cnc-w02-142",
@@ -4554,7 +4576,9 @@
     "pdfPage": 15,
     "printedPage": 14,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q160.webp",
+    "imageAlt": "CNC銑床 第 160 題原始題目圖"
   },
   {
     "id": "cnc-w02-161",
@@ -4578,7 +4602,9 @@
     "pdfPage": 15,
     "printedPage": 14,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q161.webp",
+    "imageAlt": "CNC銑床 第 161 題原始題目圖"
   },
   {
     "id": "cnc-w02-162",
@@ -5023,7 +5049,9 @@
     "pdfPage": 16,
     "printedPage": 15,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w02-q180.webp",
+    "imageAlt": "CNC銑床 第 180 題原始題目圖"
   },
   {
     "id": "cnc-w02-181",
@@ -5163,7 +5191,9 @@
     "pdfPage": 17,
     "printedPage": 16,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w02-q186.webp",
+    "imageAlt": "CNC銑床 第 186 題原始題目圖"
   },
   {
     "id": "cnc-w02-187",
@@ -5741,7 +5771,9 @@
     "pdfPage": 18,
     "printedPage": 17,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w03-q022.webp",
+    "imageAlt": "CNC銑床 第 22 題原始題目圖"
   },
   {
     "id": "cnc-w03-023",
@@ -6005,7 +6037,9 @@
     "pdfPage": 19,
     "printedPage": 18,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w03-q034.webp",
+    "imageAlt": "CNC銑床 第 34 題原始題目圖"
   },
   {
     "id": "cnc-w03-035",
@@ -7527,7 +7561,9 @@
     "pdfPage": 23,
     "printedPage": 22,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w03-q103.webp",
+    "imageAlt": "CNC銑床 第 103 題原始題目圖"
   },
   {
     "id": "cnc-w03-104",
@@ -7737,7 +7773,9 @@
     "pdfPage": 24,
     "printedPage": 23,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w03-q112.webp",
+    "imageAlt": "CNC銑床 第 112 題原始題目圖"
   },
   {
     "id": "cnc-w03-113",
@@ -7784,7 +7822,9 @@
     "pdfPage": 24,
     "printedPage": 23,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w03-q114.webp",
+    "imageAlt": "CNC銑床 第 114 題原始題目圖"
   },
   {
     "id": "cnc-w03-115",
@@ -8534,7 +8574,9 @@
     "pdfPage": 27,
     "printedPage": 26,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q017.webp",
+    "imageAlt": "CNC銑床 第 17 題原始題目圖"
   },
   {
     "id": "cnc-w04-018",
@@ -9700,7 +9742,9 @@
     "pdfPage": 30,
     "printedPage": 29,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q070.webp",
+    "imageAlt": "CNC銑床 第 70 題原始題目圖"
   },
   {
     "id": "cnc-w04-071",
@@ -11812,7 +11856,9 @@
     "pdfPage": 35,
     "printedPage": 34,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w04-q166.webp",
+    "imageAlt": "CNC銑床 第 166 題原始題目圖"
   },
   {
     "id": "cnc-w04-167",
@@ -11856,7 +11902,9 @@
     "pdfPage": 36,
     "printedPage": 35,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q168.webp",
+    "imageAlt": "CNC銑床 第 168 題原始題目圖"
   },
   {
     "id": "cnc-w04-169",
@@ -12181,7 +12229,9 @@
     "pdfPage": 37,
     "printedPage": 36,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q182.webp",
+    "imageAlt": "CNC銑床 第 182 題原始題目圖"
   },
   {
     "id": "cnc-w04-183",
@@ -12205,7 +12255,9 @@
     "pdfPage": 37,
     "printedPage": 36,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q183.webp",
+    "imageAlt": "CNC銑床 第 183 題原始題目圖"
   },
   {
     "id": "cnc-w04-184",
@@ -12229,7 +12281,9 @@
     "pdfPage": 37,
     "printedPage": 36,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q184.webp",
+    "imageAlt": "CNC銑床 第 184 題原始題目圖"
   },
   {
     "id": "cnc-w04-185",
@@ -12770,7 +12824,9 @@
     "pdfPage": 39,
     "printedPage": 38,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w04-q207.webp",
+    "imageAlt": "CNC銑床 第 207 題原始題目圖"
   },
   {
     "id": "cnc-w04-208",
@@ -12793,7 +12849,9 @@
     "pdfPage": 39,
     "printedPage": 38,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q208.webp",
+    "imageAlt": "CNC銑床 第 208 題原始題目圖"
   },
   {
     "id": "cnc-w04-209",
@@ -12816,7 +12874,9 @@
     "pdfPage": 39,
     "printedPage": 38,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q209.webp",
+    "imageAlt": "CNC銑床 第 209 題原始題目圖"
   },
   {
     "id": "cnc-w04-210",
@@ -12839,7 +12899,9 @@
     "pdfPage": 39,
     "printedPage": 38,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q210.webp",
+    "imageAlt": "CNC銑床 第 210 題原始題目圖"
   },
   {
     "id": "cnc-w04-211",
@@ -12980,7 +13042,9 @@
     "pdfPage": 40,
     "printedPage": 39,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q216.webp",
+    "imageAlt": "CNC銑床 第 216 題原始題目圖"
   },
   {
     "id": "cnc-w04-217",
@@ -13143,7 +13207,9 @@
     "pdfPage": 41,
     "printedPage": 40,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q223.webp",
+    "imageAlt": "CNC銑床 第 223 題原始題目圖"
   },
   {
     "id": "cnc-w04-224",
@@ -13237,7 +13303,9 @@
     "pdfPage": 41,
     "printedPage": 40,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w04-q227.webp",
+    "imageAlt": "CNC銑床 第 227 題原始題目圖"
   },
   {
     "id": "cnc-w04-228",
@@ -13260,7 +13328,9 @@
     "pdfPage": 41,
     "printedPage": 40,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q228.webp",
+    "imageAlt": "CNC銑床 第 228 題原始題目圖"
   },
   {
     "id": "cnc-w04-229",
@@ -13283,7 +13353,9 @@
     "pdfPage": 41,
     "printedPage": 40,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w04-q229.webp",
+    "imageAlt": "CNC銑床 第 229 題原始題目圖"
   },
   {
     "id": "cnc-w04-230",
@@ -13306,7 +13378,9 @@
     "pdfPage": 41,
     "printedPage": 40,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w04-q230.webp",
+    "imageAlt": "CNC銑床 第 230 題原始題目圖"
   },
   {
     "id": "cnc-w04-231",
@@ -13468,7 +13542,9 @@
     "pdfPage": 42,
     "printedPage": 41,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w04-q237.webp",
+    "imageAlt": "CNC銑床 第 237 題原始題目圖"
   },
   {
     "id": "cnc-w04-238",
@@ -13514,7 +13590,9 @@
     "pdfPage": 42,
     "printedPage": 41,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q239.webp",
+    "imageAlt": "CNC銑床 第 239 題原始題目圖"
   },
   {
     "id": "cnc-w04-241",
@@ -13583,7 +13661,9 @@
     "pdfPage": 43,
     "printedPage": 42,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q243.webp",
+    "imageAlt": "CNC銑床 第 243 題原始題目圖"
   },
   {
     "id": "cnc-w04-244",
@@ -13606,7 +13686,9 @@
     "pdfPage": 43,
     "printedPage": 42,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q244.webp",
+    "imageAlt": "CNC銑床 第 244 題原始題目圖"
   },
   {
     "id": "cnc-w04-245",
@@ -13629,7 +13711,9 @@
     "pdfPage": 43,
     "printedPage": 42,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q245.webp",
+    "imageAlt": "CNC銑床 第 245 題原始題目圖"
   },
   {
     "id": "cnc-w04-246",
@@ -13675,7 +13759,9 @@
     "pdfPage": 43,
     "printedPage": 42,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w04-q247.webp",
+    "imageAlt": "CNC銑床 第 247 題原始題目圖"
   },
   {
     "id": "cnc-w05-001",
@@ -13851,7 +13937,9 @@
     "pdfPage": 44,
     "printedPage": 43,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q008.webp",
+    "imageAlt": "CNC銑床 第 8 題原始題目圖"
   },
   {
     "id": "cnc-w05-009",
@@ -13917,7 +14005,9 @@
     "pdfPage": 44,
     "printedPage": 43,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q011.webp",
+    "imageAlt": "CNC銑床 第 11 題原始題目圖"
   },
   {
     "id": "cnc-w05-012",
@@ -14137,7 +14227,9 @@
     "pdfPage": 45,
     "printedPage": 44,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q021.webp",
+    "imageAlt": "CNC銑床 第 21 題原始題目圖"
   },
   {
     "id": "cnc-w05-022",
@@ -14357,7 +14449,9 @@
     "pdfPage": 46,
     "printedPage": 45,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q031.webp",
+    "imageAlt": "CNC銑床 第 31 題原始題目圖"
   },
   {
     "id": "cnc-w05-032",
@@ -14555,7 +14649,9 @@
     "pdfPage": 46,
     "printedPage": 45,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q040.webp",
+    "imageAlt": "CNC銑床 第 40 題原始題目圖"
   },
   {
     "id": "cnc-w05-041",
@@ -14577,7 +14673,9 @@
     "pdfPage": 47,
     "printedPage": 46,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q041.webp",
+    "imageAlt": "CNC銑床 第 41 題原始題目圖"
   },
   {
     "id": "cnc-w05-042",
@@ -14599,7 +14697,9 @@
     "pdfPage": 47,
     "printedPage": 46,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q042.webp",
+    "imageAlt": "CNC銑床 第 42 題原始題目圖"
   },
   {
     "id": "cnc-w05-043",
@@ -14709,7 +14809,9 @@
     "pdfPage": 47,
     "printedPage": 46,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w05-q047.webp",
+    "imageAlt": "CNC銑床 第 47 題原始題目圖"
   },
   {
     "id": "cnc-w05-048",
@@ -14731,7 +14833,9 @@
     "pdfPage": 47,
     "printedPage": 46,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w05-q048.webp",
+    "imageAlt": "CNC銑床 第 48 題原始題目圖"
   },
   {
     "id": "cnc-w05-049",
@@ -14753,7 +14857,9 @@
     "pdfPage": 47,
     "printedPage": 46,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q049.webp",
+    "imageAlt": "CNC銑床 第 49 題原始題目圖"
   },
   {
     "id": "cnc-w05-050",
@@ -14775,7 +14881,9 @@
     "pdfPage": 48,
     "printedPage": 47,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q050.webp",
+    "imageAlt": "CNC銑床 第 50 題原始題目圖"
   },
   {
     "id": "cnc-w05-051",
@@ -14797,7 +14905,9 @@
     "pdfPage": 48,
     "printedPage": 47,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q051.webp",
+    "imageAlt": "CNC銑床 第 51 題原始題目圖"
   },
   {
     "id": "cnc-w05-052",
@@ -14819,7 +14929,9 @@
     "pdfPage": 48,
     "printedPage": 47,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q052.webp",
+    "imageAlt": "CNC銑床 第 52 題原始題目圖"
   },
   {
     "id": "cnc-w05-053",
@@ -14841,7 +14953,9 @@
     "pdfPage": 48,
     "printedPage": 47,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q053.webp",
+    "imageAlt": "CNC銑床 第 53 題原始題目圖"
   },
   {
     "id": "cnc-w05-054",
@@ -15005,7 +15119,9 @@
     "pdfPage": 49,
     "printedPage": 48,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q060.webp",
+    "imageAlt": "CNC銑床 第 60 題原始題目圖"
   },
   {
     "id": "cnc-w05-061",
@@ -15028,7 +15144,9 @@
     "pdfPage": 49,
     "printedPage": 48,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q061.webp",
+    "imageAlt": "CNC銑床 第 61 題原始題目圖"
   },
   {
     "id": "cnc-w05-062",
@@ -15098,7 +15216,9 @@
     "pdfPage": 49,
     "printedPage": 48,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w05-q064.webp",
+    "imageAlt": "CNC銑床 第 64 題原始題目圖"
   },
   {
     "id": "cnc-w05-065",
@@ -15146,7 +15266,9 @@
     "pdfPage": 50,
     "printedPage": 49,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q066.webp",
+    "imageAlt": "CNC銑床 第 66 題原始題目圖"
   },
   {
     "id": "cnc-w05-067",
@@ -15170,7 +15292,9 @@
     "pdfPage": 50,
     "printedPage": 49,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q067.webp",
+    "imageAlt": "CNC銑床 第 67 題原始題目圖"
   },
   {
     "id": "cnc-w05-068",
@@ -15193,7 +15317,9 @@
     "pdfPage": 50,
     "printedPage": 49,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q068.webp",
+    "imageAlt": "CNC銑床 第 68 題原始題目圖"
   },
   {
     "id": "cnc-w05-069",
@@ -15263,7 +15389,9 @@
     "pdfPage": 50,
     "printedPage": 49,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q071.webp",
+    "imageAlt": "CNC銑床 第 71 題原始題目圖"
   },
   {
     "id": "cnc-w05-072",
@@ -15403,7 +15531,9 @@
     "pdfPage": 51,
     "printedPage": 50,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q077.webp",
+    "imageAlt": "CNC銑床 第 77 題原始題目圖"
   },
   {
     "id": "cnc-w05-078",
@@ -15426,7 +15556,9 @@
     "pdfPage": 51,
     "printedPage": 50,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q078.webp",
+    "imageAlt": "CNC銑床 第 78 題原始題目圖"
   },
   {
     "id": "cnc-w05-079",
@@ -15449,7 +15581,9 @@
     "pdfPage": 51,
     "printedPage": 50,
     "sourceFile": "cnc.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/cnc/w05-q079.webp",
+    "imageAlt": "CNC銑床 第 79 題原始題目圖"
   },
   {
     "id": "cnc-w05-080",
@@ -15495,7 +15629,9 @@
     "pdfPage": 51,
     "printedPage": 50,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w05-q081.webp",
+    "imageAlt": "CNC銑床 第 81 題原始題目圖"
   },
   {
     "id": "cnc-w05-082",
@@ -15518,7 +15654,9 @@
     "pdfPage": 51,
     "printedPage": 50,
     "sourceFile": "cnc.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/cnc/w05-q082.webp",
+    "imageAlt": "CNC銑床 第 82 題原始題目圖"
   },
   {
     "id": "cnc-w05-083",
@@ -17319,7 +17457,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q001.webp",
+    "imageAlt": "機工類 第 1 題原始題目圖"
   },
   {
     "id": "machine-w01-002",
@@ -17341,7 +17481,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q002.webp",
+    "imageAlt": "機工類 第 2 題原始題目圖"
   },
   {
     "id": "machine-w01-003",
@@ -17407,7 +17549,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q005.webp",
+    "imageAlt": "機工類 第 5 題原始題目圖"
   },
   {
     "id": "machine-w01-006",
@@ -17429,7 +17573,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q006.webp",
+    "imageAlt": "機工類 第 6 題原始題目圖"
   },
   {
     "id": "machine-w01-007",
@@ -17451,7 +17597,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q007.webp",
+    "imageAlt": "機工類 第 7 題原始題目圖"
   },
   {
     "id": "machine-w01-008",
@@ -17495,7 +17643,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q009.webp",
+    "imageAlt": "機工類 第 9 題原始題目圖"
   },
   {
     "id": "machine-w01-010",
@@ -17517,7 +17667,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q010.webp",
+    "imageAlt": "機工類 第 10 題原始題目圖"
   },
   {
     "id": "machine-w01-011",
@@ -17539,7 +17691,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q011.webp",
+    "imageAlt": "機工類 第 11 題原始題目圖"
   },
   {
     "id": "machine-w01-012",
@@ -17561,7 +17715,9 @@
     "pdfPage": 3,
     "printedPage": 2,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q012.webp",
+    "imageAlt": "機工類 第 12 題原始題目圖"
   },
   {
     "id": "machine-w01-013",
@@ -17583,7 +17739,9 @@
     "pdfPage": 3,
     "printedPage": 2,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q013.webp",
+    "imageAlt": "機工類 第 13 題原始題目圖"
   },
   {
     "id": "machine-w01-014",
@@ -17693,7 +17851,9 @@
     "pdfPage": 3,
     "printedPage": 2,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q018.webp",
+    "imageAlt": "機工類 第 18 題原始題目圖"
   },
   {
     "id": "machine-w01-019",
@@ -17869,7 +18029,9 @@
     "pdfPage": 4,
     "printedPage": 3,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w01-q026.webp",
+    "imageAlt": "機工類 第 26 題原始題目圖"
   },
   {
     "id": "machine-w01-027",
@@ -17891,7 +18053,9 @@
     "pdfPage": 4,
     "printedPage": 3,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w01-q027.webp",
+    "imageAlt": "機工類 第 27 題原始題目圖"
   },
   {
     "id": "machine-w01-028",
@@ -17913,7 +18077,9 @@
     "pdfPage": 4,
     "printedPage": 3,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w01-q028.webp",
+    "imageAlt": "機工類 第 28 題原始題目圖"
   },
   {
     "id": "machine-w01-029",
@@ -18067,7 +18233,9 @@
     "pdfPage": 4,
     "printedPage": 3,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w01-q035.webp",
+    "imageAlt": "機工類 第 35 題原始題目圖"
   },
   {
     "id": "machine-w01-036",
@@ -18155,7 +18323,9 @@
     "pdfPage": 4,
     "printedPage": 3,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w01-q039.webp",
+    "imageAlt": "機工類 第 39 題原始題目圖"
   },
   {
     "id": "machine-w01-040",
@@ -18243,7 +18413,9 @@
     "pdfPage": 4,
     "printedPage": 3,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q003.webp",
+    "imageAlt": "機工類 第 3 題原始題目圖"
   },
   {
     "id": "machine-w02-004",
@@ -18287,7 +18459,9 @@
     "pdfPage": 4,
     "printedPage": 3,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q005.webp",
+    "imageAlt": "機工類 第 5 題原始題目圖"
   },
   {
     "id": "machine-w02-006",
@@ -18375,7 +18549,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q009.webp",
+    "imageAlt": "機工類 第 9 題原始題目圖"
   },
   {
     "id": "machine-w02-010",
@@ -18397,7 +18573,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q010.webp",
+    "imageAlt": "機工類 第 10 題原始題目圖"
   },
   {
     "id": "machine-w02-011",
@@ -18441,7 +18619,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q012.webp",
+    "imageAlt": "機工類 第 12 題原始題目圖"
   },
   {
     "id": "machine-w02-013",
@@ -18529,7 +18709,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q016.webp",
+    "imageAlt": "機工類 第 16 題原始題目圖"
   },
   {
     "id": "machine-w02-017",
@@ -18551,7 +18733,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q017.webp",
+    "imageAlt": "機工類 第 17 題原始題目圖"
   },
   {
     "id": "machine-w02-018",
@@ -18573,7 +18757,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q018.webp",
+    "imageAlt": "機工類 第 18 題原始題目圖"
   },
   {
     "id": "machine-w02-019",
@@ -18595,7 +18781,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q019.webp",
+    "imageAlt": "機工類 第 19 題原始題目圖"
   },
   {
     "id": "machine-w02-020",
@@ -18617,7 +18805,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q020.webp",
+    "imageAlt": "機工類 第 20 題原始題目圖"
   },
   {
     "id": "machine-w02-021",
@@ -18661,7 +18851,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q022.webp",
+    "imageAlt": "機工類 第 22 題原始題目圖"
   },
   {
     "id": "machine-w02-023",
@@ -18683,7 +18875,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q023.webp",
+    "imageAlt": "機工類 第 23 題原始題目圖"
   },
   {
     "id": "machine-w02-024",
@@ -18705,7 +18899,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q024.webp",
+    "imageAlt": "機工類 第 24 題原始題目圖"
   },
   {
     "id": "machine-w02-025",
@@ -18727,7 +18923,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q025.webp",
+    "imageAlt": "機工類 第 25 題原始題目圖"
   },
   {
     "id": "machine-w02-026",
@@ -18749,7 +18947,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q026.webp",
+    "imageAlt": "機工類 第 26 題原始題目圖"
   },
   {
     "id": "machine-w02-027",
@@ -18771,7 +18971,9 @@
     "pdfPage": 5,
     "printedPage": 4,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q027.webp",
+    "imageAlt": "機工類 第 27 題原始題目圖"
   },
   {
     "id": "machine-w02-028",
@@ -18859,7 +19061,9 @@
     "pdfPage": 6,
     "printedPage": 5,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q031.webp",
+    "imageAlt": "機工類 第 31 題原始題目圖"
   },
   {
     "id": "machine-w02-032",
@@ -18903,7 +19107,9 @@
     "pdfPage": 6,
     "printedPage": 5,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q033.webp",
+    "imageAlt": "機工類 第 33 題原始題目圖"
   },
   {
     "id": "machine-w02-034",
@@ -19105,7 +19311,9 @@
     "pdfPage": 6,
     "printedPage": 5,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q042.webp",
+    "imageAlt": "機工類 第 42 題原始題目圖"
   },
   {
     "id": "machine-w02-043",
@@ -19152,7 +19360,9 @@
     "pdfPage": 6,
     "printedPage": 5,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w02-q044.webp",
+    "imageAlt": "機工類 第 44 題原始題目圖"
   },
   {
     "id": "machine-w02-045",
@@ -19175,7 +19385,9 @@
     "pdfPage": 7,
     "printedPage": 6,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w02-q045.webp",
+    "imageAlt": "機工類 第 45 題原始題目圖"
   },
   {
     "id": "machine-w02-046",
@@ -19198,7 +19410,9 @@
     "pdfPage": 7,
     "printedPage": 6,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q046.webp",
+    "imageAlt": "機工類 第 46 題原始題目圖"
   },
   {
     "id": "machine-w02-047",
@@ -19246,7 +19460,9 @@
     "pdfPage": 7,
     "printedPage": 6,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w02-q048.webp",
+    "imageAlt": "機工類 第 48 題原始題目圖"
   },
   {
     "id": "machine-w02-049",
@@ -19468,7 +19684,9 @@
     "pdfPage": 7,
     "printedPage": 6,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w03-q008.webp",
+    "imageAlt": "機工類 第 8 題原始題目圖"
   },
   {
     "id": "machine-w03-009",
@@ -19622,7 +19840,9 @@
     "pdfPage": 8,
     "printedPage": 7,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w03-q015.webp",
+    "imageAlt": "機工類 第 15 題原始題目圖"
   },
   {
     "id": "machine-w03-016",
@@ -20150,7 +20370,9 @@
     "pdfPage": 10,
     "printedPage": 9,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w03-q039.webp",
+    "imageAlt": "機工類 第 39 題原始題目圖"
   },
   {
     "id": "machine-w03-040",
@@ -22688,7 +22910,9 @@
     "pdfPage": 16,
     "printedPage": 15,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w05-q027.webp",
+    "imageAlt": "機工類 第 27 題原始題目圖"
   },
   {
     "id": "machine-w05-028",
@@ -25689,7 +25913,9 @@
     "pdfPage": 23,
     "printedPage": 22,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w07-q040.webp",
+    "imageAlt": "機工類 第 40 題原始題目圖"
   },
   {
     "id": "machine-w07-041",
@@ -25953,7 +26179,9 @@
     "pdfPage": 25,
     "printedPage": 24,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q008.webp",
+    "imageAlt": "機工類 第 8 題原始題目圖"
   },
   {
     "id": "machine-w08-009",
@@ -26063,7 +26291,9 @@
     "pdfPage": 25,
     "printedPage": 24,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q013.webp",
+    "imageAlt": "機工類 第 13 題原始題目圖"
   },
   {
     "id": "machine-w08-014",
@@ -26085,7 +26315,9 @@
     "pdfPage": 25,
     "printedPage": 24,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q014.webp",
+    "imageAlt": "機工類 第 14 題原始題目圖"
   },
   {
     "id": "machine-w08-015",
@@ -26129,7 +26361,9 @@
     "pdfPage": 25,
     "printedPage": 24,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q016.webp",
+    "imageAlt": "機工類 第 16 題原始題目圖"
   },
   {
     "id": "machine-w08-017",
@@ -26151,7 +26385,9 @@
     "pdfPage": 26,
     "printedPage": 25,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q017.webp",
+    "imageAlt": "機工類 第 17 題原始題目圖"
   },
   {
     "id": "machine-w08-018",
@@ -26173,7 +26409,9 @@
     "pdfPage": 26,
     "printedPage": 25,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q018.webp",
+    "imageAlt": "機工類 第 18 題原始題目圖"
   },
   {
     "id": "machine-w08-019",
@@ -26195,7 +26433,9 @@
     "pdfPage": 26,
     "printedPage": 25,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q019.webp",
+    "imageAlt": "機工類 第 19 題原始題目圖"
   },
   {
     "id": "machine-w08-020",
@@ -26261,7 +26501,9 @@
     "pdfPage": 26,
     "printedPage": 25,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q022.webp",
+    "imageAlt": "機工類 第 22 題原始題目圖"
   },
   {
     "id": "machine-w08-023",
@@ -26349,7 +26591,9 @@
     "pdfPage": 27,
     "printedPage": 26,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q026.webp",
+    "imageAlt": "機工類 第 26 題原始題目圖"
   },
   {
     "id": "machine-w08-027",
@@ -26415,7 +26659,9 @@
     "pdfPage": 27,
     "printedPage": 26,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w08-q029.webp",
+    "imageAlt": "機工類 第 29 題原始題目圖"
   },
   {
     "id": "machine-w08-030",
@@ -26815,7 +27061,9 @@
     "pdfPage": 28,
     "printedPage": 27,
     "sourceFile": "machine.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/machine/w08-q047.webp",
+    "imageAlt": "機工類 第 47 題原始題目圖"
   },
   {
     "id": "machine-w08-048",
@@ -27093,7 +27341,9 @@
     "pdfPage": 28,
     "printedPage": 27,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w09-q005.webp",
+    "imageAlt": "機工類 第 5 題原始題目圖"
   },
   {
     "id": "machine-w09-006",
@@ -27203,7 +27453,9 @@
     "pdfPage": 29,
     "printedPage": 28,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w09-q010.webp",
+    "imageAlt": "機工類 第 10 題原始題目圖"
   },
   {
     "id": "machine-w09-011",
@@ -27225,7 +27477,9 @@
     "pdfPage": 29,
     "printedPage": 28,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w09-q011.webp",
+    "imageAlt": "機工類 第 11 題原始題目圖"
   },
   {
     "id": "machine-w09-012",
@@ -27269,7 +27523,9 @@
     "pdfPage": 29,
     "printedPage": 28,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w09-q013.webp",
+    "imageAlt": "機工類 第 13 題原始題目圖"
   },
   {
     "id": "machine-w09-014",
@@ -27841,7 +28097,9 @@
     "pdfPage": 31,
     "printedPage": 30,
     "sourceFile": "machine.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/machine/w09-q040.webp",
+    "imageAlt": "機工類 第 40 題原始題目圖"
   },
   {
     "id": "safety-w01-001",
@@ -31185,7 +31443,9 @@
     "pdfPage": 6,
     "printedPage": 5,
     "sourceFile": "ethics.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/ethics/w01-q052.webp",
+    "imageAlt": "工作倫理 第 52 題原始題目圖"
   },
   {
     "id": "ethics-w01-053",
@@ -31427,7 +31687,9 @@
     "pdfPage": 7,
     "printedPage": 6,
     "sourceFile": "ethics.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/ethics/w01-q063.webp",
+    "imageAlt": "工作倫理 第 63 題原始題目圖"
   },
   {
     "id": "ethics-w01-064",
@@ -31823,7 +32085,9 @@
     "pdfPage": 9,
     "printedPage": 8,
     "sourceFile": "ethics.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/ethics/w01-q081.webp",
+    "imageAlt": "工作倫理 第 81 題原始題目圖"
   },
   {
     "id": "ethics-w01-082",
@@ -32021,7 +32285,9 @@
     "pdfPage": 10,
     "printedPage": 9,
     "sourceFile": "ethics.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/ethics/w01-q090.webp",
+    "imageAlt": "工作倫理 第 90 題原始題目圖"
   },
   {
     "id": "ethics-w01-091",
@@ -32527,7 +32793,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "environment.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/environment/w03-q013.webp",
+    "imageAlt": "環境保護 第 13 題原始題目圖"
   },
   {
     "id": "environment-w03-014",
@@ -34375,7 +34643,9 @@
     "pdfPage": 2,
     "printedPage": 1,
     "sourceFile": "energy.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/energy/w04-q002.webp",
+    "imageAlt": "節能減碳 第 2 題原始題目圖"
   },
   {
     "id": "energy-w04-003",
@@ -34969,7 +35239,9 @@
     "pdfPage": 3,
     "printedPage": 2,
     "sourceFile": "energy.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/energy/w04-q029.webp",
+    "imageAlt": "節能減碳 第 29 題原始題目圖"
   },
   {
     "id": "energy-w04-030",
@@ -35849,7 +36121,9 @@
     "pdfPage": 7,
     "printedPage": 6,
     "sourceFile": "energy.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/energy/w04-q069.webp",
+    "imageAlt": "節能減碳 第 69 題原始題目圖"
   },
   {
     "id": "energy-w04-070",
@@ -36223,7 +36497,9 @@
     "pdfPage": 8,
     "printedPage": 7,
     "sourceFile": "energy.pdf",
-    "imageRequired": false
+    "imageRequired": false,
+    "image": "images/energy/w04-q086.webp",
+    "imageAlt": "節能減碳 第 86 題原始題目圖"
   },
   {
     "id": "energy-w04-087",
@@ -36289,7 +36565,9 @@
     "pdfPage": 8,
     "printedPage": 7,
     "sourceFile": "energy.pdf",
-    "imageRequired": true
+    "imageRequired": true,
+    "image": "images/energy/w04-q089.webp",
+    "imageAlt": "節能減碳 第 89 題原始題目圖"
   },
   {
     "id": "energy-w04-090",
